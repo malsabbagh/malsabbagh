@@ -1,5 +1,6 @@
-![Stats](https://github-readme-stats-red-three.vercel.app/api?username=malsabbagh&count_private=true&include_all_commits&hide=stars&hide_title=true&langs_count=true&custom_title=Stats&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats-red-three.vercel.app/api?username=malsabbagh&count_private=true&include_all_commits&hide=stars&hide_title=true&langs_count=true&custom_title=Stats&show_icons=true&theme=radical) 
 
+![Languages](https://github-readme-stats-red-three.vercel.app/api/top-langs?username=malsabbagh&count_private=true&show_icons=true&theme=radical&langs_count=10&hide_title=true&hide=jupyter%20notebook,shell,html,scss)
 
 <!--
 **malsabbagh/malsabbagh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
