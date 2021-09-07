@@ -1,4 +1,4 @@
-![Stats](https://github-readme-stats-red-three.vercel.app/api?username=malsabbagh&count_private=true&include_all_commits=true)
+![Stats](https://github-readme-stats-red-three.vercel.app/api?username=malsabbagh&count_private=true&include_all_commits&hide=stars&hide_title=true&langs_count=true&custom_title=Stats&show_icons=true&theme=radical)
 
 
 <!--
