@@ -1,4 +1,4 @@
-<!--![Stats](https://github-readme-stats-red-three.vercel.app/api?username=malsabbagh&count_private=true&include_all_commits&hide=stars&hide_title=true&langs_count=true&custom_title=Stats&show_icons=true&theme=radical&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR) 
+![Stats](https://github-readme-stats-red-three.vercel.app/api?username=malsabbagh&count_private=true&include_all_commits&hide=stars&hide_title=true&langs_count=true&custom_title=Stats&show_icons=true&theme=radical&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR) 
 
 ![Languages](https://github-readme-stats-red-three.vercel.app/api/top-langs?username=malsabbagh&count_private=true&theme=radical&langs_count=10&hide_title=true&hide=mustache,scss,inno%20setup,hcl,jupyter%20notebook,javascript,html,jsonnet,vue&exclude_repo=random&layout=compact)
 
